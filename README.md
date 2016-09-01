@@ -10,3 +10,4 @@ Handy pieces of code curated by the HAUS team.
 
 ## Misc
 - [Object-Fit Polyfill Behavior](https://gist.github.com/calebjeffrey/f48bf3d97813d46f316c)
+- [Three.js material that can crossfade textures and is compatible to MeshStandardMaterial](https://gist.github.com/claus/854963f2cd42ab21acf9cdba4fef49f3)
